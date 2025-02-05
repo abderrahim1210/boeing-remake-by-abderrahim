@@ -1,0 +1,122 @@
+body{
+    font-weight: 600;
+}
+#ul1 a:hover{
+    color: rgb(114, 114, 255);
+}
+
+#ul2 a:hover{
+    background-color: rgb(1, 23, 137);
+    color: white;
+}
+
+.Body{
+    background-image: url("safety-quality-hero-new.jpeg");
+    width: 100.8%;
+    height: auto;
+    padding: 100px;
+    color: white;
+}
+
+.Body button{
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid white;
+    color: white;
+}
+
+.Body div{
+    background-color: rgba(1, 24, 137, 0.7);
+    padding: 50px;
+    border-radius: 5px;
+}
+.Body button:hover{
+    background-color: white;
+    color: rgb(1, 23, 137);
+}
+
+#ul3{
+    padding-left: 500px;
+    padding-right: 500px;
+    background-color: rgb(1, 23, 137);
+}
+
+#ul13 li{
+    color: white;
+}
+
+
+#mn1 span{
+    background-color: rgb(240, 240, 240);
+    border-radius: 0%;
+}
+#mn1 input{
+    background-color: rgb(240, 240, 240);
+    border-radius: 0%;
+}
+
+.divs div{
+    display: inline-block;
+    margin: 20px;
+}
+
+.divs button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(1, 23, 137);
+    color: rgb(1, 23, 137);
+}
+.divs button:hover{
+    background-color: rgb(1, 23, 137);
+    color: white;
+}
+
+td button{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(1, 23, 137);
+    color: rgb(1, 23, 137);
+}
+td button:hover{
+    background-color: rgb(1, 23, 137);
+    color: white;
+}
+
+
+#dv3{
+    background-image: url("The Boeing Company Official Website_files/jobs-home-rdblk.jpeg");
+    width: 100%;
+    height: auto;
+    padding: 100px;
+    margin: 0%;
+}
+#dv3>div{
+    width: 400px;
+    height: auto;
+    background-color: rgb(1, 23, 137);
+    color: white;
+    padding: 50px;
+}
+
+#btn1{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid white;
+    color: white;
+}
+
+#btn1:hover{
+    background-color: white;
+    color: rgb(1, 23, 137);
+}
+
+.TBL a{
+    color: black;
+    text-decoration: none;
+}
